@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Maya's Dungeon</title>
+    <description>Updates fron the dungeon!</description>
+    <link>https://mayasdungeon.com/</link>
+    <lastBuildDate></lastBuildDate>
+    <ttl>20000</ttl>
+    <item>
+        <title>0/00/0000</title>
+        <description></description>
+        <link>https://mayasdungeon.com/pages/journal/</link>
+        <pubDate></pubDate>
+    </item>
+    <!-- END -->
+</channel>
+</rss>
